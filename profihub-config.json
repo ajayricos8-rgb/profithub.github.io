@@ -1,0 +1,64 @@
+{
+  "serverUrl": "wss://ws.derivws.com/websockets/v3",
+  "siteName": "ProfiHub",
+  "siteTitle": "ProfiHub - Professional GitHub Tools & Resources",
+  "appMarkupPercentage": 2,
+  "logoPath": "https://fra.cloud.appwrite.io/v1/storage/buckets/site_assets_bucket/files/69d93b4e0008d5cdefdb/view?project=67dd37e20034254eca59&project=67dd37e20034254eca59",
+  "faviconPath": "https://fra.cloud.appwrite.io/v1/storage/buckets/site_assets_bucket/files/69d93b50000a5c22758d/view?project=67dd37e20034254eca59&project=67dd37e20034254eca59",
+  "tabActiveColor": "#141be6",
+  "tabListBgColor": "#d20f0f",
+  "socialLinks": {
+    "whatsapp": "https://wa.me/0745516040",
+    "telegram": "",
+    "youtube": "",
+    "tiktok": "",
+    "website": ""
+  },
+  "botUserId": "69d6c09283a2a84f75aa",
+  "brandConfig": {
+    "brandName": "",
+    "domainName": "",
+    "platformName": ""
+  },
+  "environment": "production",
+  "appId": 132869,
+  "appIdSource": "master",
+  "appIdHistory": [
+    {
+      "appId": 132869,
+      "addedAt": "2026-04-10T18:02:58.961Z",
+      "source": "master_auto_creation"
+    }
+  ],
+  "loaderType": "wave",
+  "botCardStyle": "dollarprinter",
+  "aiScannerEnabled": true,
+  "tradingEngine": "v1",
+  "loaderColors": {
+    "primaryColor": "#44c814",
+    "secondaryColor": "#e51f36",
+    "backgroundColor": "#134bcd"
+  },
+  "fastTraderType": "speedbot",
+  "analysisToolType": "circles",
+  "tabTextColor": "#050505",
+  "tabActiveTextColor": "#40188b",
+  "tabStyle": "icon-pills",
+  "iconPillsContainerBgColor": "#cd0e21",
+  "iconPillsContainerBorderColor": "#14db46",
+  "iconPillsPillBgColor": "#5d6b1a",
+  "iconPillsPillBorderColor": "rgba(0, 150, 150, 0.4)",
+  "iconPillsPillHoverBgColor": "#0de3e3",
+  "iconPillsActiveColor": "#dc8f09",
+  "iconPillsActiveBorderColor": "rgba(156, 39, 176, 0.6)",
+  "iconPillsTextColor": "#181daa",
+  "iconPillsActiveTextColor": "#212121",
+  "primaryColor": "#dcce38",
+  "secondaryColor": "#e85a6a",
+  "apolloListItemBg": "linear-gradient(135deg, #dcce38 0%, #e85a6a 50%, #e29451 100%)",
+  "apolloListItemHoverBg": "linear-gradient(135deg, #e1d555 0%, #eb7280 50%, #e6a46b 100%)",
+  "buttonPrimaryColor": "#1fd622",
+  "buttonTertiaryColor": "#e60a0a",
+  "buttonSecondaryColor": "#12ce90",
+  "buttonSecondaryBorderColor": "#ba0d72"
+}
